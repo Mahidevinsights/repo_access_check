@@ -30,7 +30,7 @@ class SuperAppRise extends StatelessWidget {
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
                       Text(
-                        'SuperApp',
+                        'SuperApp by mahinder',
                         style: TextStyle(
                           fontSize: 16,
                           fontWeight: FontWeight.bold,
