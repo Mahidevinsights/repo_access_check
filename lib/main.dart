@@ -37,7 +37,7 @@ class SuperAppRise extends StatelessWidget {
                         ),
                       ),
                       Text(
-                        'RISE',
+                        'RISE.........',
                         style: TextStyle(
                           fontSize: 32,
                           fontWeight: FontWeight.bold,
