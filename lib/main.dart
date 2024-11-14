@@ -61,7 +61,7 @@ class SuperAppRise extends StatelessWidget {
               const SizedBox(height: 16),
               // Text content
               const Text(
-                'All-in-one app for all your Financial Needs and policiees',
+                'All-in-one app for all your Financial Needs',
                 textAlign: TextAlign.center,
                 style: TextStyle(
                   fontSize: 24,
